@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: aqua;
+    text-align: center;
+}
+input {
+    font: normal 13pt arial;
+}
+div {
+    color: rgb(42, 81, 165);
+    font: normal 15pt arial;
+}
+div#divv2 {
+    padding: 40px;
+}
+input {
+    color: rgb(14, 14, 14);
+    background-color: brown;
+    
+}
+
